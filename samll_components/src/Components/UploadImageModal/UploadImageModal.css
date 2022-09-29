@@ -1,0 +1,21 @@
+.upload {
+    text-align: center;
+}
+
+.image-input {
+    display: none;
+}
+
+.image-label {
+    cursor: pointer;
+}
+
+.modal-padding {
+    padding: 0;
+}
+
+.plus-button {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
